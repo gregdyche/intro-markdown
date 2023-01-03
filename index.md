@@ -5,3 +5,10 @@
 ```
 Print("Hello World")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] space between brackets
+- [] no space
+-[ ] brackets have space but the dash before doesn't
